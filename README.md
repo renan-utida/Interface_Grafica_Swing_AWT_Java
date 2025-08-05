@@ -140,5 +140,3 @@ mouseExited()  -> "📤 ENVIAR FORMULÁRIO"
 ## 📄 Licença
 Este projeto foi desenvolvido para fins educacionais como parte do desafio da disciplina de DDD.
 
----
-*Projeto desenvolvido com 💙 usando Java Swing*
